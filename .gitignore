@@ -3,6 +3,7 @@
 /dist
 /venv
 main.spec
+__pycache__/
 
 # local env files
 .env.local
